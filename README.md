@@ -7,6 +7,8 @@ explore my knowledge to others .
 
 In this repo 100+ Codes are available in C ,
 Java and Python Programming .
+#### Dynamic Programming
+#### AVL TREE
 
 
 ## Badges
